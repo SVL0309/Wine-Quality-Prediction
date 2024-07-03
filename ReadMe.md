@@ -1,5 +1,5 @@
 # **Wine Quality Prediction**
-!illustration()
+!illustration(vine.jpg)
 ## Overview
 
 This repository contains code for building and evaluating machine learning models to predict wine quality based on various chemical attributes. The models are developed using the scikit-learn library in Python.
